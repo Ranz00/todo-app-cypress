@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#new-task {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+#add-btn {
+  padding: 5px 10px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+.delete-btn {
+  margin-left: 10px;
+  color: red;
+  cursor: pointer;
+}
